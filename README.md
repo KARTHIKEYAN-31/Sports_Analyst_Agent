@@ -47,3 +47,6 @@ Enhance LangGraph framework to support more advanced human-in-the-loop interacti
 
 Architecture:
 ![Architecture](images/agent_flow.jpg)
+
+ER Diagram(DB):
+![ER Diagram](images/er_diagram_schema.png)
